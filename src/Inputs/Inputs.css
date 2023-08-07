@@ -1,0 +1,13 @@
+#total::before {
+    content: 'Total : ';
+}
+
+#BTN:hover {
+    letter-spacing: 1.5px;
+    color: #9600FF;
+    font-weight: 600;
+    transition: 0.5s;
+}
+#notActive{
+    display: none;
+}
